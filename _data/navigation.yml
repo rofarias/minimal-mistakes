@@ -2,11 +2,11 @@
 main:
   - title: "Início"
     url: /inicio/
-  # - title: "Currículo"
-  #   url: /curriculo/ 
-  # - title: "Ensino"
-  #   url: /ensino/
-  # - title: "Contato"
-  #   url: /contato/
+  - title: "Currículo"
+    url: /curriculo/ 
+  - title: "Ensino"
+    url: /ensino/
+  - title: "Contato"
+    url: /contato/
   # - title: "Sitemap"
   #   url: /sitemap/
